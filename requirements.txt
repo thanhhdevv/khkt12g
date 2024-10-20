@@ -4,3 +4,12 @@ py3Dmol
 biotite
 ipywidgets
 ipython_genutils
+flask
+os
+numpy
+cv2
+ultralytics
+threading
+google-generativeai
+dotenv
+
